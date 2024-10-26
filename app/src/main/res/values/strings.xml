@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Water saver</string>
+    <string name="text1">Fill Your Information Below or\n register with you Social Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="create">Create</string>
+    <string name="account">Account</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign In</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="or_signup_with">Or Signup With</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="log_in">Log In</string>
+    <string name="we_missed_you_login_to_ncontinue_your_journey_with_us">We missed you! Login to \nContinue Your Journey with us</string>
+    <string name="back">Back</string>
+    <string name="welcome">Welcome</string>
+    <string name="track_your_daily_water_n_intake_with_us">Track Your Daily Water \n Intake With us!</string>
+    <string name="click_me">Click Me</string>
+    <string name="achieve_your_hydration_goals_with_a_simple_tap">Achieve Your Hydration goals with a simple tap!</string>
+    <string name="smart_reminders_ntailored_to_you">Smart reminders \nTailored to you!</string>
+    <string name="quick_and_easy_to_set_your_hydration_goals_and_thentrack_your_daily_water_intake_process">Quick and Easy to Set your Hydration goals and thentrack your daily water intake process</string>
+    <string name="easy_to_use_drink_n_tap_repeat">Easy to Use - Drink , \n Tap , Repeat</string>
+    <string name="staying_hydrated_is_very_easy_with_drops_water_tracker">Staying hydrated is very easy with drops water tracker</string>
+    <string name="get_started">Get Started</string>
+</resources>
